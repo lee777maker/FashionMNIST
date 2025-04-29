@@ -63,3 +63,12 @@ n_feat = X_train.shape[1]
 def sigmod(r):
     return 1/(1 + torch.exp(-r))
 
+class NeuralNetwork(nn.Module):
+    def __init__(self, input_nodes, hidden_layers, output_node):
+        super(NeuralNetwork,self).__init__()
+        self.sig= nn.Linear(input_nodes,hidden_layers)
+
+    def forward(self,x):
+        out = self.sig(x)
+        out = torch.sigmoid(x)
+        return out
