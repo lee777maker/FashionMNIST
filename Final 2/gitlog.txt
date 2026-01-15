@@ -1,0 +1,29 @@
+commit e4dcd7e9803373e580d0bab54e884d61c8b90ef6
+Author: Lethabo <NXXLET001@myuct.ac.za>
+Date:   Mon May 5 23:24:00 2025 +0200
+
+    Final commit
+
+commit 12b9253cc017b72696a402f423d8aad4f9530a07
+Author: Lethabo <NXXLET001@myuct.ac.za>
+Date:   Fri May 2 21:22:20 2025 +0200
+
+    Getting necessary plots about performance
+
+commit ef6c06d5ff6e6c27e7ed186d1a5c49cb57bc5ed4
+Author: Lethabo <NXXLET001@myuct.ac.za>
+Date:   Tue Apr 29 07:54:06 2025 +0200
+
+    Analysis section finished
+
+commit 01806a7f8b96db4f37c2afafffe3ad4254a460eb
+Author: Lethabo <NXXLET001@myuct.ac.za>
+Date:   Thu Apr 24 07:53:23 2025 +0200
+
+    Image Processing Feature
+
+commit c40a97c721623f1a707b12abc29565c10bc344b4
+Author: Lethabo <NXXLET001@myuct.ac.za>
+Date:   Tue Apr 22 16:19:02 2025 +0200
+
+    Initial commit

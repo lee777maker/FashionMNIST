@@ -1,0 +1,8 @@
+## How to run
+1. Upload dataset in same directory as system.
+2. Run python3/python classifier.py
+
+
+## The classifier.py
+This is the whole program that takes trains data on Fashion MINST data and predicts using Jpegs.
+The System saves the model to the users computer but deletes it after the run is over
